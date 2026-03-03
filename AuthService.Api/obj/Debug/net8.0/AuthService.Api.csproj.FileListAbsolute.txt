@@ -1,0 +1,12 @@
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.deps.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfoInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfo.cs
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.sourcelink.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\refint\AuthService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\ref\AuthService.Api.dll

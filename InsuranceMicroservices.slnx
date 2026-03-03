@@ -1,4 +1,264 @@
 <Solution>
+  <Folder Name="/AgentPortalApiGateway/">
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/AgentPortalApiGateway.csproj" />
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/AppSettings.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/appsettings.Development.json" />
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/appsettings.docker.json" />
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/appsettings.json" />
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/Dockerfile" />
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/ocelot.docker.json" />
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/ocelot.json" />
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/Program.cs" />
+  </Folder>
+  <Folder Name="/AgentPortalApiGateway/Properties/">
+    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/Properties/launchSettings.json" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/App.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/BlazorWasmClient.csproj" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/GlobalUsings.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Program.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/_Imports.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Components/" />
+  <Folder Name="/BlazorWasmClient/Components/Auth/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthClient.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthRequest.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthResponse.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/CustomAuthenticationStateProvider.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/Login.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/SessionStorageExtension.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/UserSession.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Components/Chat/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Chat/Chat.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Chat/ChatMessage.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Components/Dashboard/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/Dashboard.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/DashboardClient.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/ProductsSalesCard.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/ProductTotalSalesModel.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/SalesAgentsCard.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/TotalSalesCard.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/TrandsCard.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Components/Layout/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/FooterMenu.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/SideMenu.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/ThemeColorSelector.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/ThemeColorSelector.razor.css" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/TopMenu.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Components/PolicySearch/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearch.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearchClient.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearchCriteriaModel.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Components/Products/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ContractDetailsSection.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/OfferParametersModel.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/OfferParamsSection.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/PolicyClient.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/PolicySummarySection.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductCard.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductDetails.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductsClient.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductsList.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Layouts/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Layouts/MainLayout.razor" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Layouts/MainLayout.razor.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Pages/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Pages/Home.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Properties/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Properties/launchSettings.json" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/Shared/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Shared/ApiResponse.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Shared/CustomValidations.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Shared/DateTimeExtension.cs" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Shared/ProductIcons.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/wwwroot/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/appsettings.json" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/brand-logo.png" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/favicon.ico" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/index.html" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/wwwroot/css/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/blazor-ui.css" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/wwwroot/css/material/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.css" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.css.map" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.min.css" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.min.css.map" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/wwwroot/js/" />
+  <Folder Name="/BlazorWasmClient/wwwroot/js/material/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.js" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.js.map" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.min.js" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.min.js.map" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/wwwroot/static/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/car.jpg" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/farm.jpg" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/house.jpg" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/travel.jpg" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/wwwroot/static/avatars/">
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/admin.png" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/agent1.png" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/danny_solid.png" />
+    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/jimmy_solid.png" />
+  </Folder>
+  <Folder Name="/eureka-server/">
+    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/build.gradle" />
+    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/Dockerfile" />
+    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/gradlew" />
+    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/gradlew.bat" />
+  </Folder>
+  <Folder Name="/eureka-server/gradle/" />
+  <Folder Name="/eureka-server/gradle/wrapper/">
+    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/gradle/wrapper/gradle-wrapper.jar" />
+    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/gradle/wrapper/gradle-wrapper.properties" />
+  </Folder>
+  <Folder Name="/eureka-server/src/" />
+  <Folder Name="/eureka-server/src/main/" />
+  <Folder Name="/eureka-server/src/main/java/" />
+  <Folder Name="/eureka-server/src/main/java/net/" />
+  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/" />
+  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/microservices/" />
+  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/">
+    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/EurekaServer.java" />
+  </Folder>
+  <Folder Name="/eureka-server/src/main/resources/">
+    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/src/main/resources/application.yml" />
+  </Folder>
+  <Folder Name="/postgres/">
+    <File Path="../../../Downloads/TH4_THKienTruc/postgres/postgres/createdatabases.sql" />
+    <File Path="../../../Downloads/TH4_THKienTruc/postgres/postgres/Dockerfile" />
+  </Folder>
+  <Folder Name="/scripts/">
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app-build.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app-down.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app-logs.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app-run.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app.yml" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/build-without-tests.bat" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/build-without-tests.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/build.bat" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/build.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra-build.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra-down.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra-logs.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra-run.sh" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra.yml" />
+    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/rabbitmq-isolated.conf" />
+  </Folder>
+  <Folder Name="/web/">
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/.dockerignore" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/.env-example" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/.gitignore" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/babel.config.js" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/Dockerfile" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/nginx.conf" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/package-lock.json" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/package.json" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/README.md" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/yarn.lock" />
+  </Folder>
+  <Folder Name="/web/public/">
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/favicon.ico" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/index.html" />
+  </Folder>
+  <Folder Name="/web/public/static/">
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/car.jpg" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/farm.jpg" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/house.jpg" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/travel.jpg" />
+  </Folder>
+  <Folder Name="/web/public/static/avatars/">
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/avatars/admin.png" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/avatars/agent1.png" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/avatars/danny_solid.png" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/avatars/jimmy_solid.png" />
+  </Folder>
+  <Folder Name="/web/src/">
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/App.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/main.js" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/router.js" />
+  </Folder>
+  <Folder Name="/web/src/assets/">
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/assets/logo.png" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/assets/logo_horizontal.png" />
+  </Folder>
+  <Folder Name="/web/src/components/">
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Account.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Chat.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Chatbot.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/CoverList.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Dashboard.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Home.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/PolicyCreate.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/PolicyDetails.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/PolicyList.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/ProductCard.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/ProductDetails.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/ProductList.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesAgents.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesBar.js" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesDistribution.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesLines.js" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesPie.js" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesTrendsLines.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/TotalSalesCard.vue" />
+  </Folder>
+  <Folder Name="/web/src/components/http/">
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/http/ApiClient.js" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/http/Auth.js" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/http/WebSocket.js" />
+  </Folder>
+  <Folder Name="/web/src/views/">
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/AccountView.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/ChatbotView.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/ChatView.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/DashboardView.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/HomeView.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/PoliciesView.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/PolicyCreateView.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/PolicyDetailsView.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/ProductDetailsView.vue" />
+    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/ProductsView.vue" />
+  </Folder>
+  <Project Path="AgentPortalGateway.Api/AgentPortalGateway.Api.csproj" Id="4da7788f-f39f-4819-93b7-f89be8682a8f" />
+  <Project Path="AgentPortalGateway.Test/AgentPortalGateway.Test.csproj" Id="1eefcde6-b3b6-463c-8602-8c69ef5663f7" />
+  <Project Path="AgentPortalGateway/AgentPortalGateway.csproj" Id="d9fd5fe6-6172-4e09-8ff6-8a6e4a9a25ec" />
+  <Project Path="AuthService.Api/AuthService.Api.csproj" Id="109fece8-d824-4719-acd1-84108ef8c444" />
+  <Project Path="AuthService.Test/AuthService.Test.csproj" Id="dc7e27ec-0504-42d3-9b4e-c578e0ebf9ce" />
+  <Project Path="AuthService/AuthService.csproj" Id="42d6f7c8-9a38-40e8-95f9-c817649196b0" />
+  <Project Path="ChatService.Api/ChatService.Api.csproj" Id="aa5de66c-8d05-43c6-a7ce-232f2bb069cc" />
+  <Project Path="ChatService.Test/ChatService.Test.csproj" Id="7e811f4d-e8c1-454e-ae7b-58453220f692" />
+  <Project Path="ChatService/ChatService.csproj" Id="3d314a83-1c7d-4e03-908d-b41b030bfb2e" />
+  <Project Path="DocumentService.Api/DocumentService.Api.csproj" Id="542f363a-7e9c-41c9-b56d-b6fc78243b32" />
+  <Project Path="DocumentService.Test/DocumentService.Test.csproj" Id="b88d3937-0ed5-42ef-80dd-203c5834b581" />
+  <Project Path="DocumentService/DocumentService.csproj" Id="9dfe27da-840c-41c0-938e-e184a5657a5c" />
+  <Project Path="PaymentService.Api/PaymentService.Api.csproj" Id="7bca0477-9183-4e33-98c4-bf06d035e5ff" />
+  <Project Path="PaymentService.Test/PaymentService.Test.csproj" Id="268c159b-4e4e-451f-b503-d7bb2d27de89" />
+  <Project Path="PaymentService/PaymentService.csproj" Id="883a54f3-0451-426e-83d3-83c6b4aa6921" />
+  <Project Path="PolicySearchService.Api/PolicySearchService.Api.csproj" Id="4746a3a0-eeac-44c3-b4cc-5de2bf94acdd" />
+  <Project Path="PolicySearchService.Test/PolicySearchService.Test.csproj" Id="21c8459b-8753-4ab0-8292-76020d4c3604" />
+  <Project Path="PolicySearchService/PolicySearchService.csproj" Id="7a7c1570-8947-4b72-8022-f635618b7453" />
+  <Project Path="PolicyService.Api/PolicyService.Api.csproj" Id="379cf5b5-692d-421a-ac8a-04bc0366b1e9" />
+  <Project Path="PolicyService.Test/PolicyService.Test.csproj" Id="c7eccc7e-cc81-4164-844a-72de52985305" />
+  <Project Path="PolicyService/PolicyService.csproj" Id="9b303c20-03e2-450e-ab57-ee465a91ab96" />
+  <Project Path="PricingService.Api/PricingService.Api.csproj" Id="2369b5a9-333c-4234-8aaf-49cd792870a8" />
+  <Project Path="PricingService.Test/PricingService.Test.csproj" Id="50d07af4-fe44-4e61-8b33-a2cfe521c2f5" />
+  <Project Path="PricingService/PricingService.csproj" Id="9aa172e8-0310-4a04-9e42-6ad7c891456e" />
   <Project Path="ProductService.Api/ProductService.Api.csproj" />
   <Project Path="ProductService.Test/ProductService.Test.csproj" />
   <Project Path="ProductService/ProductService.csproj" />

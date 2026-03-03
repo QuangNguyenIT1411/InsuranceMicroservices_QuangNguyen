@@ -1,0 +1,12 @@
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\bin\Debug\net8.0\PolicySearchService.Api.deps.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\bin\Debug\net8.0\PolicySearchService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\bin\Debug\net8.0\PolicySearchService.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.AssemblyInfoInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.AssemblyInfo.cs
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.sourcelink.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\refint\PolicySearchService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\ref\PolicySearchService.Api.dll

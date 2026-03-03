@@ -1,0 +1,12 @@
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\bin\Debug\net8.0\AgentPortalGateway.Api.deps.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\bin\Debug\net8.0\AgentPortalGateway.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\bin\Debug\net8.0\AgentPortalGateway.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\obj\Debug\net8.0\AgentPortalGateway.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\obj\Debug\net8.0\AgentPortalGateway.Api.AssemblyInfoInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\obj\Debug\net8.0\AgentPortalGateway.Api.AssemblyInfo.cs
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\obj\Debug\net8.0\AgentPortalGateway.Api.csproj.CoreCompileInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\obj\Debug\net8.0\AgentPortalGateway.Api.sourcelink.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\obj\Debug\net8.0\AgentPortalGateway.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\obj\Debug\net8.0\refint\AgentPortalGateway.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\obj\Debug\net8.0\AgentPortalGateway.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway.Api\obj\Debug\net8.0\ref\AgentPortalGateway.Api.dll

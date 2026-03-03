@@ -1,0 +1,12 @@
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\bin\Debug\net8.0\ChatService.Api.deps.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\bin\Debug\net8.0\ChatService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\bin\Debug\net8.0\ChatService.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfoInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfo.cs
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.sourcelink.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\refint\ChatService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ref\ChatService.Api.dll

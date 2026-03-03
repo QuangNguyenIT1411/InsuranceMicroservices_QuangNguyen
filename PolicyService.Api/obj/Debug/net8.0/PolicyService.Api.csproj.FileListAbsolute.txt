@@ -1,0 +1,12 @@
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\bin\Debug\net8.0\PolicyService.Api.deps.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\bin\Debug\net8.0\PolicyService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\bin\Debug\net8.0\PolicyService.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.AssemblyInfoInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.AssemblyInfo.cs
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.sourcelink.json
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\obj\Debug\net8.0\refint\PolicyService.Api.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\PolicyService.Api\obj\Debug\net8.0\ref\PolicyService.Api.dll
