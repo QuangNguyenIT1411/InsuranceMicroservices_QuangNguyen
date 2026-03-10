@@ -49,6 +49,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -119,9 +133,45 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DynamicExpresso.Core": {
+              "target": "Package",
+              "version": "[2.16.1, )"
+            },
+            "GlobalExceptionHandler": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Marten": {
+              "target": "Package",
+              "version": "[7.19.1, )"
+            },
             "MediatR": {
               "target": "Package",
-              "version": "[14.0.0, )"
+              "version": "[12.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Sinks.ColoredConsole": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Steeltoe.Discovery.ClientBase": {
+              "target": "Package",
+              "version": "[3.2.7, )"
+            },
+            "Steeltoe.Discovery.Eureka": {
+              "target": "Package",
+              "version": "[3.2.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

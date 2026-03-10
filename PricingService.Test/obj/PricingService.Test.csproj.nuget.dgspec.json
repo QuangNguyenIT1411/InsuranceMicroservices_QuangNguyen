@@ -49,6 +49,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -97,9 +111,6 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Quang\\source\\repos\\InsuranceMicroservices\\PricingService.Api\\PricingService.Api.csproj": {
-                "projectPath": "C:\\Users\\Quang\\source\\repos\\InsuranceMicroservices\\PricingService.Api\\PricingService.Api.csproj"
-              },
               "C:\\Users\\Quang\\source\\repos\\InsuranceMicroservices\\PricingService\\PricingService.csproj": {
                 "projectPath": "C:\\Users\\Quang\\source\\repos\\InsuranceMicroservices\\PricingService\\PricingService.csproj"
               }
@@ -122,21 +133,27 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.8.0, )"
+              "version": "[17.10.0, )"
             },
-            "coverlet.collector": {
+            "Moq": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[4.20.70, )"
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.8.1, )"
             },
             "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.8.1, )"
             }
           },
           "imports": [
@@ -151,6 +168,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -209,9 +229,45 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DynamicExpresso.Core": {
+              "target": "Package",
+              "version": "[2.16.1, )"
+            },
+            "GlobalExceptionHandler": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Marten": {
+              "target": "Package",
+              "version": "[7.19.1, )"
+            },
             "MediatR": {
               "target": "Package",
-              "version": "[14.0.0, )"
+              "version": "[12.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Sinks.ColoredConsole": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Steeltoe.Discovery.ClientBase": {
+              "target": "Package",
+              "version": "[3.2.7, )"
+            },
+            "Steeltoe.Discovery.Eureka": {
+              "target": "Package",
+              "version": "[3.2.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

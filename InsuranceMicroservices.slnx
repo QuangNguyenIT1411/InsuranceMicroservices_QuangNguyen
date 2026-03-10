@@ -1,239 +1,378 @@
 <Solution>
   <Folder Name="/AgentPortalApiGateway/">
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/AgentPortalApiGateway.csproj" />
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/AppSettings.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/appsettings.Development.json" />
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/appsettings.docker.json" />
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/appsettings.json" />
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/Dockerfile" />
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/ocelot.docker.json" />
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/ocelot.json" />
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/Program.cs" />
   </Folder>
-  <Folder Name="/AgentPortalApiGateway/Properties/">
-    <File Path="../../../Downloads/TH4_THKienTruc/AgentPortalApiGateway/AgentPortalApiGateway/Properties/launchSettings.json" />
+  <Folder Name="/AgentPortalApiGateway/AgentPortalApiGateway/">
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/AgentPortalApiGateway.csproj" />
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/AppSettings.cs" />
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/Dockerfile" />
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/Program.cs" />
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/appsettings.Development.json" />
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/appsettings.docker.json" />
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/appsettings.json" />
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/ocelot.docker.json" />
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/ocelot.json" />
+  </Folder>
+  <Folder Name="/AgentPortalApiGateway/AgentPortalApiGateway/Properties/">
+    <File Path="../Baitap2/AgentPortalApiGateway/AgentPortalApiGateway/Properties/launchSettings.json" />
   </Folder>
   <Folder Name="/BlazorWasmClient/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/App.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/BlazorWasmClient.csproj" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/GlobalUsings.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Program.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/_Imports.razor" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/Components/" />
-  <Folder Name="/BlazorWasmClient/Components/Auth/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthClient.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthRequest.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthResponse.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/CustomAuthenticationStateProvider.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/Login.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/SessionStorageExtension.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Auth/UserSession.cs" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/App.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/BlazorWasmClient.csproj" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/GlobalUsings.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Program.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/_Imports.razor" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/Components/Chat/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Chat/Chat.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Chat/ChatMessage.cs" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/">
   </Folder>
-  <Folder Name="/BlazorWasmClient/Components/Dashboard/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/Dashboard.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/DashboardClient.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/ProductsSalesCard.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/ProductTotalSalesModel.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/SalesAgentsCard.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/TotalSalesCard.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/TrandsCard.razor" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Auth/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthClient.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthRequest.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthResponse.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Auth/CustomAuthenticationStateProvider.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Auth/Login.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Auth/SessionStorageExtension.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Auth/UserSession.cs" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/Components/Layout/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/FooterMenu.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/SideMenu.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/ThemeColorSelector.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/ThemeColorSelector.razor.css" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Layout/TopMenu.razor" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Chat/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Chat/Chat.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Chat/ChatMessage.cs" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/Components/PolicySearch/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearch.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearchClient.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearchCriteriaModel.cs" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/Dashboard.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/DashboardClient.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/ProductTotalSalesModel.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/ProductsSalesCard.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/SalesAgentsCard.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/TotalSalesCard.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/TrandsCard.razor" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/Components/Products/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ContractDetailsSection.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/OfferParametersModel.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/OfferParamsSection.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/PolicyClient.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/PolicySummarySection.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductCard.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductDetails.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductsClient.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductsList.razor" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Layout/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Layout/FooterMenu.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Layout/SideMenu.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Layout/ThemeColorSelector.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Layout/ThemeColorSelector.razor.css" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Layout/TopMenu.razor" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/Layouts/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Layouts/MainLayout.razor" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Layouts/MainLayout.razor.cs" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearch.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearchClient.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearchCriteriaModel.cs" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/Pages/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Pages/Home.razor" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Products/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Products/ContractDetailsSection.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Products/OfferParametersModel.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Products/OfferParamsSection.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Products/PolicyClient.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Products/PolicySummarySection.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductCard.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductDetails.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductsClient.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Components/Products/ProductsList.razor" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/Properties/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Properties/launchSettings.json" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Layouts/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Layouts/MainLayout.razor" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Layouts/MainLayout.razor.cs" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/Shared/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Shared/ApiResponse.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Shared/CustomValidations.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Shared/DateTimeExtension.cs" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/Shared/ProductIcons.cs" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Pages/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Pages/Home.razor" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/wwwroot/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/appsettings.json" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/brand-logo.png" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/favicon.ico" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/index.html" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Properties/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Properties/launchSettings.json" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/wwwroot/css/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/blazor-ui.css" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Shared/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Shared/ApiResponse.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Shared/CustomValidations.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Shared/DateTimeExtension.cs" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/Shared/ProductIcons.cs" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/wwwroot/css/material/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.css" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.css.map" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.min.css" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.min.css.map" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/appsettings.json" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/brand-logo.png" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/favicon.ico" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/index.html" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/wwwroot/js/" />
-  <Folder Name="/BlazorWasmClient/wwwroot/js/material/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.js" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.js.map" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.min.js" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.min.js.map" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/css/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/css/blazor-ui.css" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/wwwroot/static/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/car.jpg" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/farm.jpg" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/house.jpg" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/travel.jpg" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.css" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.css.map" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.min.css" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.min.css.map" />
   </Folder>
-  <Folder Name="/BlazorWasmClient/wwwroot/static/avatars/">
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/admin.png" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/agent1.png" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/danny_solid.png" />
-    <File Path="../../../Downloads/TH4_THKienTruc/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/jimmy_solid.png" />
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/js/">
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.js" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.js.map" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.min.js" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.min.js.map" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/static/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/static/car.jpg" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/static/farm.jpg" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/static/house.jpg" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/static/travel.jpg" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/">
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/admin.png" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/agent1.png" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/danny_solid.png" />
+    <File Path="../Baitap2/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/jimmy_solid.png" />
+  </Folder>
+  <Folder Name="/Web/">
+    <File Path="../Baitap2/Web/.dockerignore" />
+    <File Path="../Baitap2/Web/.env-example" />
+    <File Path="../Baitap2/Web/.gitignore" />
+    <File Path="../Baitap2/Web/Dockerfile" />
+    <File Path="../Baitap2/Web/README.md" />
+    <File Path="../Baitap2/Web/babel.config.js" />
+    <File Path="../Baitap2/Web/nginx.conf" />
+    <File Path="../Baitap2/Web/package-lock.json" />
+    <File Path="../Baitap2/Web/package.json" />
+    <File Path="../Baitap2/Web/yarn.lock" />
+  </Folder>
+  <Folder Name="/Web/Web/">
+    <File Path="../Baitap2/Web/Web/.dockerignore" />
+    <File Path="../Baitap2/Web/Web/.env-example" />
+    <File Path="../Baitap2/Web/Web/.gitignore" />
+    <File Path="../Baitap2/Web/Web/Dockerfile" />
+    <File Path="../Baitap2/Web/Web/README.md" />
+    <File Path="../Baitap2/Web/Web/babel.config.js" />
+    <File Path="../Baitap2/Web/Web/nginx.conf" />
+    <File Path="../Baitap2/Web/Web/package-lock.json" />
+    <File Path="../Baitap2/Web/Web/package.json" />
+    <File Path="../Baitap2/Web/Web/yarn.lock" />
+  </Folder>
+  <Folder Name="/Web/Web/public/">
+    <File Path="../Baitap2/Web/Web/public/favicon.ico" />
+    <File Path="../Baitap2/Web/Web/public/index.html" />
+  </Folder>
+  <Folder Name="/Web/Web/public/static/">
+    <File Path="../Baitap2/Web/Web/public/static/car.jpg" />
+    <File Path="../Baitap2/Web/Web/public/static/farm.jpg" />
+    <File Path="../Baitap2/Web/Web/public/static/house.jpg" />
+    <File Path="../Baitap2/Web/Web/public/static/travel.jpg" />
+  </Folder>
+  <Folder Name="/Web/Web/public/static/avatars/">
+    <File Path="../Baitap2/Web/Web/public/static/avatars/admin.png" />
+    <File Path="../Baitap2/Web/Web/public/static/avatars/agent1.png" />
+    <File Path="../Baitap2/Web/Web/public/static/avatars/danny_solid.png" />
+    <File Path="../Baitap2/Web/Web/public/static/avatars/jimmy_solid.png" />
+  </Folder>
+  <Folder Name="/Web/Web/src/">
+    <File Path="../Baitap2/Web/Web/src/App.vue" />
+    <File Path="../Baitap2/Web/Web/src/main.js" />
+    <File Path="../Baitap2/Web/Web/src/router.js" />
+  </Folder>
+  <Folder Name="/Web/Web/src/assets/">
+    <File Path="../Baitap2/Web/Web/src/assets/logo.png" />
+    <File Path="../Baitap2/Web/Web/src/assets/logo_horizontal.png" />
+  </Folder>
+  <Folder Name="/Web/Web/src/components/">
+    <File Path="../Baitap2/Web/Web/src/components/Account.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/Chat.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/Chatbot.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/CoverList.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/Dashboard.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/Home.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/PolicyCreate.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/PolicyDetails.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/PolicyList.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/ProductCard.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/ProductDetails.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/ProductList.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/SalesAgents.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/SalesBar.js" />
+    <File Path="../Baitap2/Web/Web/src/components/SalesDistribution.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/SalesLines.js" />
+    <File Path="../Baitap2/Web/Web/src/components/SalesPie.js" />
+    <File Path="../Baitap2/Web/Web/src/components/SalesTrendsLines.vue" />
+    <File Path="../Baitap2/Web/Web/src/components/TotalSalesCard.vue" />
+  </Folder>
+  <Folder Name="/Web/Web/src/components/http/">
+    <File Path="../Baitap2/Web/Web/src/components/http/ApiClient.js" />
+    <File Path="../Baitap2/Web/Web/src/components/http/Auth.js" />
+    <File Path="../Baitap2/Web/Web/src/components/http/WebSocket.js" />
+  </Folder>
+  <Folder Name="/Web/Web/src/views/">
+    <File Path="../Baitap2/Web/Web/src/views/AccountView.vue" />
+    <File Path="../Baitap2/Web/Web/src/views/ChatView.vue" />
+    <File Path="../Baitap2/Web/Web/src/views/ChatbotView.vue" />
+    <File Path="../Baitap2/Web/Web/src/views/DashboardView.vue" />
+    <File Path="../Baitap2/Web/Web/src/views/HomeView.vue" />
+    <File Path="../Baitap2/Web/Web/src/views/PoliciesView.vue" />
+    <File Path="../Baitap2/Web/Web/src/views/PolicyCreateView.vue" />
+    <File Path="../Baitap2/Web/Web/src/views/PolicyDetailsView.vue" />
+    <File Path="../Baitap2/Web/Web/src/views/ProductDetailsView.vue" />
+    <File Path="../Baitap2/Web/Web/src/views/ProductsView.vue" />
+  </Folder>
+  <Folder Name="/Web/public/">
+    <File Path="../Baitap2/Web/public/favicon.ico" />
+    <File Path="../Baitap2/Web/public/index.html" />
+  </Folder>
+  <Folder Name="/Web/public/static/">
+    <File Path="../Baitap2/Web/public/static/car.jpg" />
+    <File Path="../Baitap2/Web/public/static/farm.jpg" />
+    <File Path="../Baitap2/Web/public/static/house.jpg" />
+    <File Path="../Baitap2/Web/public/static/travel.jpg" />
+  </Folder>
+  <Folder Name="/Web/public/static/avatars/">
+    <File Path="../Baitap2/Web/public/static/avatars/admin.png" />
+    <File Path="../Baitap2/Web/public/static/avatars/agent1.png" />
+    <File Path="../Baitap2/Web/public/static/avatars/danny_solid.png" />
+    <File Path="../Baitap2/Web/public/static/avatars/jimmy_solid.png" />
+  </Folder>
+  <Folder Name="/Web/src/">
+    <File Path="../Baitap2/Web/src/App.vue" />
+    <File Path="../Baitap2/Web/src/main.js" />
+    <File Path="../Baitap2/Web/src/router.js" />
+  </Folder>
+  <Folder Name="/Web/src/assets/">
+    <File Path="../Baitap2/Web/src/assets/logo.png" />
+    <File Path="../Baitap2/Web/src/assets/logo_horizontal.png" />
+  </Folder>
+  <Folder Name="/Web/src/components/">
+    <File Path="../Baitap2/Web/src/components/Account.vue" />
+    <File Path="../Baitap2/Web/src/components/Chat.vue" />
+    <File Path="../Baitap2/Web/src/components/Chatbot.vue" />
+    <File Path="../Baitap2/Web/src/components/CoverList.vue" />
+    <File Path="../Baitap2/Web/src/components/Dashboard.vue" />
+    <File Path="../Baitap2/Web/src/components/Home.vue" />
+    <File Path="../Baitap2/Web/src/components/PolicyCreate.vue" />
+    <File Path="../Baitap2/Web/src/components/PolicyDetails.vue" />
+    <File Path="../Baitap2/Web/src/components/PolicyList.vue" />
+    <File Path="../Baitap2/Web/src/components/ProductCard.vue" />
+    <File Path="../Baitap2/Web/src/components/ProductDetails.vue" />
+    <File Path="../Baitap2/Web/src/components/ProductList.vue" />
+    <File Path="../Baitap2/Web/src/components/SalesAgents.vue" />
+    <File Path="../Baitap2/Web/src/components/SalesBar.js" />
+    <File Path="../Baitap2/Web/src/components/SalesDistribution.vue" />
+    <File Path="../Baitap2/Web/src/components/SalesLines.js" />
+    <File Path="../Baitap2/Web/src/components/SalesPie.js" />
+    <File Path="../Baitap2/Web/src/components/SalesTrendsLines.vue" />
+    <File Path="../Baitap2/Web/src/components/TotalSalesCard.vue" />
+  </Folder>
+  <Folder Name="/Web/src/components/http/">
+    <File Path="../Baitap2/Web/src/components/http/ApiClient.js" />
+    <File Path="../Baitap2/Web/src/components/http/Auth.js" />
+    <File Path="../Baitap2/Web/src/components/http/WebSocket.js" />
+  </Folder>
+  <Folder Name="/Web/src/views/">
+    <File Path="../Baitap2/Web/src/views/AccountView.vue" />
+    <File Path="../Baitap2/Web/src/views/ChatView.vue" />
+    <File Path="../Baitap2/Web/src/views/ChatbotView.vue" />
+    <File Path="../Baitap2/Web/src/views/DashboardView.vue" />
+    <File Path="../Baitap2/Web/src/views/HomeView.vue" />
+    <File Path="../Baitap2/Web/src/views/PoliciesView.vue" />
+    <File Path="../Baitap2/Web/src/views/PolicyCreateView.vue" />
+    <File Path="../Baitap2/Web/src/views/PolicyDetailsView.vue" />
+    <File Path="../Baitap2/Web/src/views/ProductDetailsView.vue" />
+    <File Path="../Baitap2/Web/src/views/ProductsView.vue" />
   </Folder>
   <Folder Name="/eureka-server/">
-    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/build.gradle" />
-    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/Dockerfile" />
-    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/gradlew" />
-    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/gradlew.bat" />
+    <File Path="../Baitap2/eureka-server/Dockerfile" />
+    <File Path="../Baitap2/eureka-server/build.gradle" />
+    <File Path="../Baitap2/eureka-server/gradlew" />
+    <File Path="../Baitap2/eureka-server/gradlew.bat" />
   </Folder>
-  <Folder Name="/eureka-server/gradle/" />
+  <Folder Name="/eureka-server/eureka-server/">
+    <File Path="../Baitap2/eureka-server/eureka-server/Dockerfile" />
+    <File Path="../Baitap2/eureka-server/eureka-server/build.gradle" />
+    <File Path="../Baitap2/eureka-server/eureka-server/gradlew" />
+    <File Path="../Baitap2/eureka-server/eureka-server/gradlew.bat" />
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/gradle/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/gradle/wrapper/">
+    <File Path="../Baitap2/eureka-server/eureka-server/gradle/wrapper/gradle-wrapper.jar" />
+    <File Path="../Baitap2/eureka-server/eureka-server/gradle/wrapper/gradle-wrapper.properties" />
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/net/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/net/chrisrichardson/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/net/chrisrichardson/microservices/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/">
+    <File Path="../Baitap2/eureka-server/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/EurekaServer.java" />
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/resources/">
+    <File Path="../Baitap2/eureka-server/eureka-server/src/main/resources/application.yml" />
+  </Folder>
+  <Folder Name="/eureka-server/gradle/">
+  </Folder>
   <Folder Name="/eureka-server/gradle/wrapper/">
-    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/gradle/wrapper/gradle-wrapper.jar" />
-    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/gradle/wrapper/gradle-wrapper.properties" />
+    <File Path="../Baitap2/eureka-server/gradle/wrapper/gradle-wrapper.jar" />
+    <File Path="../Baitap2/eureka-server/gradle/wrapper/gradle-wrapper.properties" />
   </Folder>
-  <Folder Name="/eureka-server/src/" />
-  <Folder Name="/eureka-server/src/main/" />
-  <Folder Name="/eureka-server/src/main/java/" />
-  <Folder Name="/eureka-server/src/main/java/net/" />
-  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/" />
-  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/microservices/" />
+  <Folder Name="/eureka-server/src/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/java/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/java/net/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/microservices/">
+  </Folder>
   <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/">
-    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/EurekaServer.java" />
+    <File Path="../Baitap2/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/EurekaServer.java" />
   </Folder>
   <Folder Name="/eureka-server/src/main/resources/">
-    <File Path="../../../Downloads/TH4_THKienTruc/eureka-server/eureka-server/src/main/resources/application.yml" />
+    <File Path="../Baitap2/eureka-server/src/main/resources/application.yml" />
   </Folder>
   <Folder Name="/postgres/">
-    <File Path="../../../Downloads/TH4_THKienTruc/postgres/postgres/createdatabases.sql" />
-    <File Path="../../../Downloads/TH4_THKienTruc/postgres/postgres/Dockerfile" />
+    <File Path="../Baitap2/postgres/Dockerfile" />
+    <File Path="../Baitap2/postgres/createdatabases.sql" />
+  </Folder>
+  <Folder Name="/postgres/postgres/">
+    <File Path="../Baitap2/postgres/postgres/Dockerfile" />
+    <File Path="../Baitap2/postgres/postgres/createdatabases.sql" />
   </Folder>
   <Folder Name="/scripts/">
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app-build.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app-down.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app-logs.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app-run.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/app.yml" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/build-without-tests.bat" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/build-without-tests.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/build.bat" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/build.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra-build.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra-down.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra-logs.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra-run.sh" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/infra.yml" />
-    <File Path="../../../Downloads/TH4_THKienTruc/scripts/scripts/rabbitmq-isolated.conf" />
+    <File Path="../Baitap2/scripts/app-build.sh" />
+    <File Path="../Baitap2/scripts/app-down.sh" />
+    <File Path="../Baitap2/scripts/app-logs.sh" />
+    <File Path="../Baitap2/scripts/app-run.sh" />
+    <File Path="../Baitap2/scripts/app.yml" />
+    <File Path="../Baitap2/scripts/build-without-tests.bat" />
+    <File Path="../Baitap2/scripts/build-without-tests.sh" />
+    <File Path="../Baitap2/scripts/build.bat" />
+    <File Path="../Baitap2/scripts/build.sh" />
+    <File Path="../Baitap2/scripts/infra-build.sh" />
+    <File Path="../Baitap2/scripts/infra-down.sh" />
+    <File Path="../Baitap2/scripts/infra-logs.sh" />
+    <File Path="../Baitap2/scripts/infra-run.sh" />
+    <File Path="../Baitap2/scripts/infra.yml" />
+    <File Path="../Baitap2/scripts/rabbitmq-isolated.conf" />
   </Folder>
-  <Folder Name="/web/">
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/.dockerignore" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/.env-example" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/.gitignore" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/babel.config.js" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/Dockerfile" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/nginx.conf" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/package-lock.json" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/package.json" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/README.md" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/yarn.lock" />
-  </Folder>
-  <Folder Name="/web/public/">
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/favicon.ico" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/index.html" />
-  </Folder>
-  <Folder Name="/web/public/static/">
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/car.jpg" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/farm.jpg" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/house.jpg" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/travel.jpg" />
-  </Folder>
-  <Folder Name="/web/public/static/avatars/">
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/avatars/admin.png" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/avatars/agent1.png" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/avatars/danny_solid.png" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/public/static/avatars/jimmy_solid.png" />
-  </Folder>
-  <Folder Name="/web/src/">
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/App.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/main.js" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/router.js" />
-  </Folder>
-  <Folder Name="/web/src/assets/">
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/assets/logo.png" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/assets/logo_horizontal.png" />
-  </Folder>
-  <Folder Name="/web/src/components/">
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Account.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Chat.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Chatbot.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/CoverList.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Dashboard.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/Home.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/PolicyCreate.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/PolicyDetails.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/PolicyList.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/ProductCard.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/ProductDetails.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/ProductList.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesAgents.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesBar.js" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesDistribution.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesLines.js" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesPie.js" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/SalesTrendsLines.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/TotalSalesCard.vue" />
-  </Folder>
-  <Folder Name="/web/src/components/http/">
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/http/ApiClient.js" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/http/Auth.js" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/components/http/WebSocket.js" />
-  </Folder>
-  <Folder Name="/web/src/views/">
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/AccountView.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/ChatbotView.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/ChatView.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/DashboardView.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/HomeView.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/PoliciesView.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/PolicyCreateView.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/PolicyDetailsView.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/ProductDetailsView.vue" />
-    <File Path="../../../Downloads/TH4_THKienTruc/Web/Web/src/views/ProductsView.vue" />
+  <Folder Name="/scripts/scripts/">
+    <File Path="../Baitap2/scripts/scripts/app-build.sh" />
+    <File Path="../Baitap2/scripts/scripts/app-down.sh" />
+    <File Path="../Baitap2/scripts/scripts/app-logs.sh" />
+    <File Path="../Baitap2/scripts/scripts/app-run.sh" />
+    <File Path="../Baitap2/scripts/scripts/app.yml" />
+    <File Path="../Baitap2/scripts/scripts/build-without-tests.bat" />
+    <File Path="../Baitap2/scripts/scripts/build-without-tests.sh" />
+    <File Path="../Baitap2/scripts/scripts/build.bat" />
+    <File Path="../Baitap2/scripts/scripts/build.sh" />
+    <File Path="../Baitap2/scripts/scripts/infra-build.sh" />
+    <File Path="../Baitap2/scripts/scripts/infra-down.sh" />
+    <File Path="../Baitap2/scripts/scripts/infra-logs.sh" />
+    <File Path="../Baitap2/scripts/scripts/infra-run.sh" />
+    <File Path="../Baitap2/scripts/scripts/infra.yml" />
+    <File Path="../Baitap2/scripts/scripts/rabbitmq-isolated.conf" />
   </Folder>
   <Project Path="AgentPortalGateway.Api/AgentPortalGateway.Api.csproj" Id="4da7788f-f39f-4819-93b7-f89be8682a8f" />
   <Project Path="AgentPortalGateway.Test/AgentPortalGateway.Test.csproj" Id="1eefcde6-b3b6-463c-8602-8c69ef5663f7" />
@@ -256,9 +395,10 @@
   <Project Path="PolicyService.Api/PolicyService.Api.csproj" Id="379cf5b5-692d-421a-ac8a-04bc0366b1e9" />
   <Project Path="PolicyService.Test/PolicyService.Test.csproj" Id="c7eccc7e-cc81-4164-844a-72de52985305" />
   <Project Path="PolicyService/PolicyService.csproj" Id="9b303c20-03e2-450e-ab57-ee465a91ab96" />
-  <Project Path="PricingService.Api/PricingService.Api.csproj" Id="2369b5a9-333c-4234-8aaf-49cd792870a8" />
-  <Project Path="PricingService.Test/PricingService.Test.csproj" Id="50d07af4-fe44-4e61-8b33-a2cfe521c2f5" />
-  <Project Path="PricingService/PricingService.csproj" Id="9aa172e8-0310-4a04-9e42-6ad7c891456e" />
+  <Project Path="PricingService.Api/PricingService.Api.csproj" />
+  <Project Path="PricingService.IntegrationTest/PricingService.IntegrationTest.csproj" />
+  <Project Path="PricingService.Test/PricingService.Test.csproj" />
+  <Project Path="PricingService/PricingService.csproj" />
   <Project Path="ProductService.Api/ProductService.Api.csproj" />
   <Project Path="ProductService.Test/ProductService.Test.csproj" />
   <Project Path="ProductService/ProductService.csproj" />
