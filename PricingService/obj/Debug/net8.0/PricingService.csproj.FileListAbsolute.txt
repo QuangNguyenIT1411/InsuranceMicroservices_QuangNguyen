@@ -198,3 +198,4 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\PricingService\obj\Debug\net8
 C:\Users\Quang\source\repos\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.pdb
 C:\Users\Quang\source\repos\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.genruntimeconfig.cache
 C:\Users\Quang\source\repos\InsuranceMicroservices\PricingService\obj\Debug\net8.0\ref\PricingService.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PricingService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

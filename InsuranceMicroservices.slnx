@@ -389,12 +389,12 @@
   <Project Path="PaymentService.Api/PaymentService.Api.csproj" Id="7bca0477-9183-4e33-98c4-bf06d035e5ff" />
   <Project Path="PaymentService.Test/PaymentService.Test.csproj" Id="268c159b-4e4e-451f-b503-d7bb2d27de89" />
   <Project Path="PaymentService/PaymentService.csproj" Id="883a54f3-0451-426e-83d3-83c6b4aa6921" />
-  <Project Path="PolicySearchService.Api/PolicySearchService.Api.csproj" Id="4746a3a0-eeac-44c3-b4cc-5de2bf94acdd" />
+  <Project Path="PolicySearchService.Api/PolicySearchService.Api.csproj" />
   <Project Path="PolicySearchService.Test/PolicySearchService.Test.csproj" Id="21c8459b-8753-4ab0-8292-76020d4c3604" />
-  <Project Path="PolicySearchService/PolicySearchService.csproj" Id="7a7c1570-8947-4b72-8022-f635618b7453" />
-  <Project Path="PolicyService.Api/PolicyService.Api.csproj" Id="379cf5b5-692d-421a-ac8a-04bc0366b1e9" />
-  <Project Path="PolicyService.Test/PolicyService.Test.csproj" Id="c7eccc7e-cc81-4164-844a-72de52985305" />
-  <Project Path="PolicyService/PolicyService.csproj" Id="9b303c20-03e2-450e-ab57-ee465a91ab96" />
+  <Project Path="PolicySearchService/PolicySearchService.csproj" />
+  <Project Path="PolicyService.Api/PolicyService.Api.csproj" />
+  <Project Path="PolicyService.Test/PolicyService.Test.csproj" />
+  <Project Path="PolicyService/PolicyService.csproj" />
   <Project Path="PricingService.Api/PricingService.Api.csproj" />
   <Project Path="PricingService.IntegrationTest/PricingService.IntegrationTest.csproj" />
   <Project Path="PricingService.Test/PricingService.Test.csproj" />
