@@ -1,11 +1,4 @@
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_ChatService.Test
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\testhost.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.deps.json
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.runtimeconfig.json
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\appsettings.json
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.staticwebassets.endpoints.json
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.exe
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\testhost.exe
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
@@ -15,7 +8,6 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\ne
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.Test.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.Test.pdb
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -25,9 +17,6 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\ne
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\NuGet.Frameworks.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\xunit.abstractions.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\xunit.core.dll
@@ -97,10 +86,6 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\ne
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.Api.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.Api.pdb
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\ChatService.pdb
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\obj\Debug\net8.0\ChatService.Test.csproj.AssemblyReference.cache
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\obj\Debug\net8.0\ChatService.Test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\obj\Debug\net8.0\ChatService.Test.AssemblyInfoInputs.cache
@@ -113,12 +98,3 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\obj\Debug\ne
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\obj\Debug\net8.0\ChatService.Test.pdb
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\obj\Debug\net8.0\ChatService.Test.genruntimeconfig.cache
 C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\obj\Debug\net8.0\ref\ChatService.Test.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\MediatR.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\MediatR.Contracts.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\ChatService.Test\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

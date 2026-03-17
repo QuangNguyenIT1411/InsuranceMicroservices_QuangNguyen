@@ -30,7 +30,6 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\obj\Debug\
 C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\obj\Debug\net8.0\AgentPor.678AC75B.Up2Date
 C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\obj\Debug\net8.0\refint\AgentPortalGateway.dll
@@ -46,3 +45,4 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\bin\Debug\
 C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\AgentPortalGateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

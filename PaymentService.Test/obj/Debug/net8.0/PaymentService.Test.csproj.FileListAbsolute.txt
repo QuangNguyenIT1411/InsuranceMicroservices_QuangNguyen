@@ -14,7 +14,15 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\PaymentService.Test.runtimeconfig.json
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\PaymentService.Test.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\PaymentService.Test.pdb
+C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\MediatR.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -28,6 +36,7 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\xunit.abstractions.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\xunit.core.dll
@@ -113,12 +122,3 @@ C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\obj\Debug
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\obj\Debug\net8.0\PaymentService.Test.pdb
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\obj\Debug\net8.0\PaymentService.Test.genruntimeconfig.cache
 C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\obj\Debug\net8.0\ref\PaymentService.Test.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\MediatR.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\MediatR.Contracts.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Quang\source\repos\InsuranceMicroservices\PaymentService.Test\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
