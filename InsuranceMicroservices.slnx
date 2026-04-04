@@ -1,0 +1,390 @@
+<Solution>
+  <Folder Name="/BlazorWasmClient/">
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/App.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/BlazorWasmClient.csproj" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/GlobalUsings.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Program.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/_Imports.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/">
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Auth/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthClient.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthRequest.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Auth/AuthResponse.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Auth/CustomAuthenticationStateProvider.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Auth/Login.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Auth/SessionStorageExtension.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Auth/UserSession.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Chat/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Chat/Chat.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Chat/ChatMessage.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Dashboard/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Dashboard/Dashboard.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Dashboard/DashboardClient.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Dashboard/ProductTotalSalesModel.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Dashboard/ProductsSalesCard.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Dashboard/SalesAgentsCard.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Dashboard/TotalSalesCard.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Dashboard/TrandsCard.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Layout/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Layout/FooterMenu.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Layout/SideMenu.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Layout/ThemeColorSelector.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Layout/ThemeColorSelector.razor.css" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Layout/TopMenu.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearch.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearchClient.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/PolicySearch/PolicySearchCriteriaModel.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Components/Products/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Products/ContractDetailsSection.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Products/OfferParametersModel.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Products/OfferParamsSection.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Products/PolicyClient.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Products/PolicySummarySection.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Products/ProductCard.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Products/ProductDetails.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Products/ProductsClient.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Components/Products/ProductsList.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Layouts/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Layouts/MainLayout.razor" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Layouts/MainLayout.razor.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Pages/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Pages/Home.razor" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Properties/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Properties/launchSettings.json" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/Shared/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/Shared/ApiResponse.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Shared/CustomValidations.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Shared/DateTimeExtension.cs" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/Shared/ProductIcons.cs" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/appsettings.json" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/brand-logo.png" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/favicon.ico" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/index.html" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/css/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/css/blazor-ui.css" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.css" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.css.map" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.min.css" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/css/material/material.min.css.map" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/js/">
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.js" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.js.map" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.min.js" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/js/material/material.min.js.map" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/static/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/static/car.jpg" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/static/farm.jpg" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/static/house.jpg" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/static/travel.jpg" />
+  </Folder>
+  <Folder Name="/BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/">
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/admin.png" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/agent1.png" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/danny_solid.png" />
+    <File Path="BlazorWasmClient/BlazorWasmClient/wwwroot/static/avatars/jimmy_solid.png" />
+  </Folder>
+  <Folder Name="/Web/">
+    <File Path="Web/.dockerignore" />
+    <File Path="Web/.env-example" />
+    <File Path="Web/.gitignore" />
+    <File Path="Web/Dockerfile" />
+    <File Path="Web/README.md" />
+    <File Path="Web/babel.config.js" />
+    <File Path="Web/nginx.conf" />
+    <File Path="Web/package-lock.json" />
+    <File Path="Web/package.json" />
+    <File Path="Web/yarn.lock" />
+  </Folder>
+  <Folder Name="/Web/Web/">
+    <File Path="Web/Web/.dockerignore" />
+    <File Path="Web/Web/.env-example" />
+    <File Path="Web/Web/.gitignore" />
+    <File Path="Web/Web/Dockerfile" />
+    <File Path="Web/Web/README.md" />
+    <File Path="Web/Web/babel.config.js" />
+    <File Path="Web/Web/nginx.conf" />
+    <File Path="Web/Web/package-lock.json" />
+    <File Path="Web/Web/package.json" />
+    <File Path="Web/Web/yarn.lock" />
+  </Folder>
+  <Folder Name="/Web/Web/public/">
+    <File Path="Web/Web/public/favicon.ico" />
+    <File Path="Web/Web/public/index.html" />
+  </Folder>
+  <Folder Name="/Web/Web/public/static/">
+    <File Path="Web/Web/public/static/car.jpg" />
+    <File Path="Web/Web/public/static/farm.jpg" />
+    <File Path="Web/Web/public/static/house.jpg" />
+    <File Path="Web/Web/public/static/travel.jpg" />
+  </Folder>
+  <Folder Name="/Web/Web/public/static/avatars/">
+    <File Path="Web/Web/public/static/avatars/admin.png" />
+    <File Path="Web/Web/public/static/avatars/agent1.png" />
+    <File Path="Web/Web/public/static/avatars/danny_solid.png" />
+    <File Path="Web/Web/public/static/avatars/jimmy_solid.png" />
+  </Folder>
+  <Folder Name="/Web/Web/src/">
+    <File Path="Web/Web/src/App.vue" />
+    <File Path="Web/Web/src/main.js" />
+    <File Path="Web/Web/src/router.js" />
+  </Folder>
+  <Folder Name="/Web/Web/src/assets/">
+    <File Path="Web/Web/src/assets/logo.png" />
+    <File Path="Web/Web/src/assets/logo_horizontal.png" />
+  </Folder>
+  <Folder Name="/Web/Web/src/components/">
+    <File Path="Web/Web/src/components/Account.vue" />
+    <File Path="Web/Web/src/components/Chat.vue" />
+    <File Path="Web/Web/src/components/Chatbot.vue" />
+    <File Path="Web/Web/src/components/CoverList.vue" />
+    <File Path="Web/Web/src/components/Dashboard.vue" />
+    <File Path="Web/Web/src/components/Home.vue" />
+    <File Path="Web/Web/src/components/PolicyCreate.vue" />
+    <File Path="Web/Web/src/components/PolicyDetails.vue" />
+    <File Path="Web/Web/src/components/PolicyList.vue" />
+    <File Path="Web/Web/src/components/ProductCard.vue" />
+    <File Path="Web/Web/src/components/ProductDetails.vue" />
+    <File Path="Web/Web/src/components/ProductList.vue" />
+    <File Path="Web/Web/src/components/SalesAgents.vue" />
+    <File Path="Web/Web/src/components/SalesBar.js" />
+    <File Path="Web/Web/src/components/SalesDistribution.vue" />
+    <File Path="Web/Web/src/components/SalesLines.js" />
+    <File Path="Web/Web/src/components/SalesPie.js" />
+    <File Path="Web/Web/src/components/SalesTrendsLines.vue" />
+    <File Path="Web/Web/src/components/TotalSalesCard.vue" />
+  </Folder>
+  <Folder Name="/Web/Web/src/components/http/">
+    <File Path="Web/Web/src/components/http/ApiClient.js" />
+    <File Path="Web/Web/src/components/http/Auth.js" />
+    <File Path="Web/Web/src/components/http/WebSocket.js" />
+  </Folder>
+  <Folder Name="/Web/Web/src/views/">
+    <File Path="Web/Web/src/views/AccountView.vue" />
+    <File Path="Web/Web/src/views/ChatView.vue" />
+    <File Path="Web/Web/src/views/ChatbotView.vue" />
+    <File Path="Web/Web/src/views/DashboardView.vue" />
+    <File Path="Web/Web/src/views/HomeView.vue" />
+    <File Path="Web/Web/src/views/PoliciesView.vue" />
+    <File Path="Web/Web/src/views/PolicyCreateView.vue" />
+    <File Path="Web/Web/src/views/PolicyDetailsView.vue" />
+    <File Path="Web/Web/src/views/ProductDetailsView.vue" />
+    <File Path="Web/Web/src/views/ProductsView.vue" />
+  </Folder>
+  <Folder Name="/Web/public/">
+    <File Path="Web/public/favicon.ico" />
+    <File Path="Web/public/index.html" />
+  </Folder>
+  <Folder Name="/Web/public/static/">
+    <File Path="Web/public/static/car.jpg" />
+    <File Path="Web/public/static/farm.jpg" />
+    <File Path="Web/public/static/house.jpg" />
+    <File Path="Web/public/static/travel.jpg" />
+  </Folder>
+  <Folder Name="/Web/public/static/avatars/">
+    <File Path="Web/public/static/avatars/admin.png" />
+    <File Path="Web/public/static/avatars/agent1.png" />
+    <File Path="Web/public/static/avatars/danny_solid.png" />
+    <File Path="Web/public/static/avatars/jimmy_solid.png" />
+  </Folder>
+  <Folder Name="/Web/src/">
+    <File Path="Web/src/App.vue" />
+    <File Path="Web/src/main.js" />
+    <File Path="Web/src/router.js" />
+  </Folder>
+  <Folder Name="/Web/src/assets/">
+    <File Path="Web/src/assets/logo.png" />
+    <File Path="Web/src/assets/logo_horizontal.png" />
+  </Folder>
+  <Folder Name="/Web/src/components/">
+    <File Path="Web/src/components/Account.vue" />
+    <File Path="Web/src/components/Chat.vue" />
+    <File Path="Web/src/components/Chatbot.vue" />
+    <File Path="Web/src/components/CoverList.vue" />
+    <File Path="Web/src/components/Dashboard.vue" />
+    <File Path="Web/src/components/Home.vue" />
+    <File Path="Web/src/components/PolicyCreate.vue" />
+    <File Path="Web/src/components/PolicyDetails.vue" />
+    <File Path="Web/src/components/PolicyList.vue" />
+    <File Path="Web/src/components/ProductCard.vue" />
+    <File Path="Web/src/components/ProductDetails.vue" />
+    <File Path="Web/src/components/ProductList.vue" />
+    <File Path="Web/src/components/SalesAgents.vue" />
+    <File Path="Web/src/components/SalesBar.js" />
+    <File Path="Web/src/components/SalesDistribution.vue" />
+    <File Path="Web/src/components/SalesLines.js" />
+    <File Path="Web/src/components/SalesPie.js" />
+    <File Path="Web/src/components/SalesTrendsLines.vue" />
+    <File Path="Web/src/components/TotalSalesCard.vue" />
+  </Folder>
+  <Folder Name="/Web/src/components/http/">
+    <File Path="Web/src/components/http/ApiClient.js" />
+    <File Path="Web/src/components/http/Auth.js" />
+    <File Path="Web/src/components/http/WebSocket.js" />
+  </Folder>
+  <Folder Name="/Web/src/views/">
+    <File Path="Web/src/views/AccountView.vue" />
+    <File Path="Web/src/views/ChatView.vue" />
+    <File Path="Web/src/views/ChatbotView.vue" />
+    <File Path="Web/src/views/DashboardView.vue" />
+    <File Path="Web/src/views/HomeView.vue" />
+    <File Path="Web/src/views/PoliciesView.vue" />
+    <File Path="Web/src/views/PolicyCreateView.vue" />
+    <File Path="Web/src/views/PolicyDetailsView.vue" />
+    <File Path="Web/src/views/ProductDetailsView.vue" />
+    <File Path="Web/src/views/ProductsView.vue" />
+  </Folder>
+  <Folder Name="/eureka-server/">
+    <File Path="eureka-server/Dockerfile" />
+    <File Path="eureka-server/build.gradle" />
+    <File Path="eureka-server/gradlew" />
+    <File Path="eureka-server/gradlew.bat" />
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/">
+    <File Path="eureka-server/eureka-server/Dockerfile" />
+    <File Path="eureka-server/eureka-server/build.gradle" />
+    <File Path="eureka-server/eureka-server/gradlew" />
+    <File Path="eureka-server/eureka-server/gradlew.bat" />
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/gradle/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/gradle/wrapper/">
+    <File Path="eureka-server/eureka-server/gradle/wrapper/gradle-wrapper.jar" />
+    <File Path="eureka-server/eureka-server/gradle/wrapper/gradle-wrapper.properties" />
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/net/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/net/chrisrichardson/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/net/chrisrichardson/microservices/">
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/">
+    <File Path="eureka-server/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/EurekaServer.java" />
+  </Folder>
+  <Folder Name="/eureka-server/eureka-server/src/main/resources/">
+    <File Path="eureka-server/eureka-server/src/main/resources/application.yml" />
+  </Folder>
+  <Folder Name="/eureka-server/gradle/">
+  </Folder>
+  <Folder Name="/eureka-server/gradle/wrapper/">
+    <File Path="eureka-server/gradle/wrapper/gradle-wrapper.jar" />
+    <File Path="eureka-server/gradle/wrapper/gradle-wrapper.properties" />
+  </Folder>
+  <Folder Name="/eureka-server/src/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/java/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/java/net/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/microservices/">
+  </Folder>
+  <Folder Name="/eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/">
+    <File Path="eureka-server/src/main/java/net/chrisrichardson/microservices/eurekaserver/EurekaServer.java" />
+  </Folder>
+  <Folder Name="/eureka-server/src/main/resources/">
+    <File Path="eureka-server/src/main/resources/application.yml" />
+  </Folder>
+  <Folder Name="/postgres/">
+    <File Path="postgres/Dockerfile" />
+    <File Path="postgres/createdatabases.sql" />
+  </Folder>
+  <Folder Name="/postgres/postgres/">
+    <File Path="postgres/postgres/Dockerfile" />
+    <File Path="postgres/postgres/createdatabases.sql" />
+  </Folder>
+  <Folder Name="/scripts/">
+    <File Path="scripts/app-build.sh" />
+    <File Path="scripts/app-down.sh" />
+    <File Path="scripts/app-logs.sh" />
+    <File Path="scripts/app-run.sh" />
+    <File Path="scripts/app.yml" />
+    <File Path="scripts/build-without-tests.bat" />
+    <File Path="scripts/build-without-tests.sh" />
+    <File Path="scripts/build.bat" />
+    <File Path="scripts/build.sh" />
+    <File Path="scripts/infra-build.sh" />
+    <File Path="scripts/infra-down.sh" />
+    <File Path="scripts/infra-logs.sh" />
+    <File Path="scripts/infra-run.sh" />
+    <File Path="scripts/infra.yml" />
+    <File Path="scripts/rabbitmq-isolated.conf" />
+  </Folder>
+  <Folder Name="/scripts/scripts/">
+    <File Path="scripts/scripts/app-build.sh" />
+    <File Path="scripts/scripts/app-down.sh" />
+    <File Path="scripts/scripts/app-logs.sh" />
+    <File Path="scripts/scripts/app-run.sh" />
+    <File Path="scripts/scripts/app.yml" />
+    <File Path="scripts/scripts/build-without-tests.bat" />
+    <File Path="scripts/scripts/build-without-tests.sh" />
+    <File Path="scripts/scripts/build.bat" />
+    <File Path="scripts/scripts/build.sh" />
+    <File Path="scripts/scripts/infra-build.sh" />
+    <File Path="scripts/scripts/infra-down.sh" />
+    <File Path="scripts/scripts/infra-logs.sh" />
+    <File Path="scripts/scripts/infra-run.sh" />
+    <File Path="scripts/scripts/infra.yml" />
+    <File Path="scripts/scripts/rabbitmq-isolated.conf" />
+  </Folder>
+  <Project Path="AgentPortalApiGateway/AgentPortalApiGateway.csproj" />
+  <Project Path="AuthService.Api/AuthService.Api.csproj" Id="109fece8-d824-4719-acd1-84108ef8c444" />
+  <Project Path="AuthService.Test/AuthService.Test.csproj" Id="dc7e27ec-0504-42d3-9b4e-c578e0ebf9ce" />
+  <Project Path="AuthService/AuthService.csproj" />
+  <Project Path="ChatService.Api/ChatService.Api.csproj" />
+  <Project Path="ChatService.Test/ChatService.Test.csproj" Id="7e811f4d-e8c1-454e-ae7b-58453220f692" />
+  <Project Path="ChatService/ChatService.csproj" />
+  <Project Path="DashboardService.Api/DashboardService.Api.csproj" />
+  <Project Path="DashboardService.Test/DashboardService.Test.csproj" />
+  <Project Path="DashboardService/DashboardService.csproj" />
+  <Project Path="DocumentService.Api/DocumentService.Api.csproj" Id="542f363a-7e9c-41c9-b56d-b6fc78243b32" />
+  <Project Path="DocumentService.Test/DocumentService.Test.csproj" Id="b88d3937-0ed5-42ef-80dd-203c5834b581" />
+  <Project Path="DocumentService/DocumentService.csproj" Id="9dfe27da-840c-41c0-938e-e184a5657a5c" />
+  <Project Path="PaymentService.Api/PaymentService.Api.csproj" />
+  <Project Path="PaymentService.Test/PaymentService.Test.csproj" />
+  <Project Path="PaymentService/PaymentService.csproj" />
+  <Project Path="PolicySearchService.Api/PolicySearchService.Api.csproj" />
+  <Project Path="PolicySearchService.Test/PolicySearchService.Test.csproj" Id="21c8459b-8753-4ab0-8292-76020d4c3604" />
+  <Project Path="PolicySearchService/PolicySearchService.csproj" />
+  <Project Path="PolicyService.Api/PolicyService.Api.csproj" />
+  <Project Path="PolicyService.Test/PolicyService.Test.csproj" />
+  <Project Path="PolicyService/PolicyService.csproj" />
+  <Project Path="PricingService.Api/PricingService.Api.csproj" />
+  <Project Path="PricingService.IntegrationTest/PricingService.IntegrationTest.csproj" />
+  <Project Path="PricingService.Test/PricingService.Test.csproj" />
+  <Project Path="PricingService/PricingService.csproj" />
+  <Project Path="ProductService.Api/ProductService.Api.csproj" />
+  <Project Path="ProductService.Test/ProductService.Test.csproj" />
+  <Project Path="ProductService/ProductService.csproj" />
+</Solution>
